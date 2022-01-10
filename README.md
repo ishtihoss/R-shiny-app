@@ -1,2 +1,2 @@
 # ada-shiny-app
-R Shiny project for ADA
+R Shiny project for Google Analytics data
